@@ -1,0 +1,4 @@
+repository "AR Summon Unity-chan@Playground_For_Test@cloud"
+  path "/"
+    br "/main"
+    co "/main"
